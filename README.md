@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" style="display: flex; flex-direction: row; justify-content: center">
-🤗 <a href="https://huggingface.co/spaces/HumanAIGC-Engineering-Team/open-avatar-chat">Demo on Hugging Face</a>&nbsp;&nbsp;|&nbsp;&nbsp;<img alt="ModelScope" style="height: 10px;" src="./assets/images/modelscope_logo.png"> <a href="https://www.modelscope.cn/studios/HumanAIGC-Engineering/open-avatar-chat">Demo on ModelScope</a>&nbsp;&nbsp;|&nbsp;&nbsp;💬 <a href="https://github.com/HumanAIGC-Engineering/OpenAvatarChat/blob/main/assets/images/community_wechat.png">WeChat Community</a>
+🤗 <a href="https://huggingface.co/spaces/vishrutJ/open-avatar-chat">Demo on Hugging Face</a>&nbsp;&nbsp;|&nbsp;&nbsp;</a>
 </p>
 
 ## 🔥 Key Features
